@@ -1,0 +1,11 @@
+{
+    "pages": [
+        "pages/index/index"
+    ],
+    "window": {
+        "navigationBarBackgroundColor": "#ffaaff",
+        "navigationBarTextStyle": "white",
+        "navigationBarTitleText": "嗨云音乐"
+        
+    }
+}
